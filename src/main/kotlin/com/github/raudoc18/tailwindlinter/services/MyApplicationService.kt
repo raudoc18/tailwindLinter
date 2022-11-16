@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.raudoc18.tailwindlinter.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.raudoc18.tailwindlinter.MyBundle
 
 class MyApplicationService {
 
